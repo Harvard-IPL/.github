@@ -2,11 +2,11 @@
 
 Fall 2024 Teaching Assignments:
 
-- PS2: Steve, Anna W
+- PS2: Steve
 - 12b: Gregorio, Tim, Nick
 - 15a: Anna W, Tim
 - 15b: Steve
-- 15c: Gregorio
+- 15c: Gregorio, Anna W
 - 123: Kathryn
 
 <!--
