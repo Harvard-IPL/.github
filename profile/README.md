@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Spring 2025 Teaching Assignments:
+- PS3: Steve, Gregorio, Tim
+- PS12a: Anna, Nick
+- 15a: Gregorio, Nick
+- 15b: Anna
+- 15c: Steve
+
 Fall 2024 Teaching Assignments:
 
 - PS2: Steve
@@ -8,6 +15,8 @@ Fall 2024 Teaching Assignments:
 - 15b: Steve
 - 15c: Gregorio, Anna W
 - 123: Kathryn
+
+
 
 <!--
 
