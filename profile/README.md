@@ -6,6 +6,7 @@ Spring 2025 Teaching Assignments:
 - 15a: Gregorio, Nick
 - 15b: Anna
 - 15c: Steve
+- 302A: Gregorio, Tim (all others teaching sections)
 
 Fall 2024 Teaching Assignments:
 
