@@ -1,6 +1,69 @@
 ## Hi there 👋
 
-Spring 2025 Teaching Assignments:
+# Fall 2025
+## Teaching Assignments (tentative):
+- PS2 (Greg): Steve, Nick  
+- 12b (Tim): Anna, Gregorio 
+- 15a (Anna K): Anna  (possibly Gregorio depending on development situation)
+- 15b (Louis, Mara): Nick 
+- 15c (Masahiro, Markus): Steve
+- 123: Kathryn
+- Potential new course development: Tim, Gregorio
+
+## Schedules (tentative):
+### PS2
+Lab meeting: M 3-5
+
+Sections: 
+- T 3-6
+- T 6-9
+- W 3-6
+- W 6-9
+- R 12-3
+- R 3-6
+- F 9-12
+### PS12b
+Lab meeting: M 12:45-2:45
+
+Sections:
+- W 6-8
+- R 9:45-11:45
+- R 12:45-2:45
+- R 3:45-5:45
+- R 6-8
+- F 3-5
+
+### 15a/16/19
+Lab meeting: M 3:45-5:45
+
+Sections: 
+- T 3-5
+- T 6-8
+- W 12:45-2:45
+- R 3-5
+- R 6-8
+- F 9:45-11:45
+- F 12:45-2:45
+
+### 15b
+Lab meeting: M 9-11
+
+Sections:
+- T 9:45-11:45
+- T 3-5
+- W 12:45-2:45
+- W 3-5
+- R 9:45-11:45
+
+### 15c
+Lab meeting: T 9-11
+
+Sections: 
+- W 12-3
+- R 3-6
+- F 12-3
+
+# Spring 2025 Teaching Assignments:
 - PS3: Steve, Gregorio, Tim
 - PS12a: Anna, Nick
 - 15a: Gregorio, Nick
@@ -8,7 +71,7 @@ Spring 2025 Teaching Assignments:
 - 15c: Steve
 - 302A: Gregorio, Tim (all others teaching sections)
 
-Fall 2024 Teaching Assignments:
+# Fall 2024 Teaching Assignments:
 
 - PS2: Steve
 - 12b: Gregorio, Tim, Nick
