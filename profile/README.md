@@ -2,10 +2,10 @@
 
 # Fall 2025
 ## Teaching Assignments:
-- PS2 (Greg): Steve, Nick  
+- PS2 (Greg): Steve  
 - 12b (Tim): Anna, Gregorio 
 - 15a (Anna K): Steve (possibly Gregorio depending on development situation)
-- 15b (Louis, Mara): Nick 
+- 15b (Louis, Mara):  
 - 15c (Masahiro, Markus): Anna
 - 123: Kathryn
 - Potential new course development: Tim, Gregorio
