@@ -3,12 +3,12 @@
 # Fall 2025
 ## Teaching Assignments:
 - PS2 (Greg): Steve  
-- 12b (Tim): Anna, Gregorio 
-- 15a (Anna K): Steve (possibly Gregorio depending on development situation)
-- 15b (Louis, Mara):  
+- 12b (Gregorio): Anna
+- 15a (Anna K): Steve 
+- 15b (Louis, Mara): TFs
 - 15c (Masahiro, Markus): Anna
 - 123: Kathryn
-- Potential new course development: Tim, Gregorio
+- Potential new course development: all
 
 ## Schedules (tentative):
 ### PS2
@@ -63,13 +63,14 @@ Sections:
 - R 3-6
 - F 12-3
 
-# Spring 2025 Teaching Assignments:
-- PS3: Steve, Gregorio, Tim
-- PS12a: Anna, Nick
-- 15a: Gregorio, Nick
+# Spring 2025 Tentative Teaching Assignments:
+- PS3: Steve
+- PS12a: Anna
+- 15a: Gregorio
 - 15b: Anna
 - 15c: Steve
-- 302A: Gregorio, Tim (all others teaching sections)
+- 302A: Gregorio (all others teaching sections)
+- 113: Kathryn
 
 # Fall 2024 Teaching Assignments:
 
