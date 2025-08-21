@@ -34,7 +34,7 @@ Sections:
 - F 3-5
 
 ### 15a/16/19
-Lab meeting: M 3:45-5:45
+Lab meeting: M 10:15-12:15
 
 Sections: 
 - T 3-5
