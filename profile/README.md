@@ -1,4 +1,13 @@
-## Hi there 👋
+
+# Spring 2026
+## Teaching Assignments:
+- PS3 (Louis): Steve
+- PS12a (Anna W): Gregorio
+- 15a (Anna K, John Huth): Steve
+- 15b (Carlos, Amir): 
+- 15c (Stefan, Xing Fan): Gregorio
+- 302A: Louis
+- 113: Kathryn
 
 # Fall 2025
 ## Teaching Assignments:
