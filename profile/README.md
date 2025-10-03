@@ -9,6 +9,63 @@
 - 302A: Louis
 - 113: Kathryn
 
+## Schedules (from last year):
+### PS3
+Lab meeting: ? M 3-5
+
+Sections: 
+- T 3-5:45
+- T 6-8:45
+- W 3-5:45
+- W 6-8:45
+- R 12-2:45
+- R 3-5:45
+- R 6-8:45
+- F 9-11:45
+  
+### PS12a
+Lab meeting: ? M 12:45-2:45
+
+Sections:
+- W 6-8
+- R 9:45-11:45
+- R 12:45-2:45
+- R 3:45-5:45
+- R 6-8
+- F 3-5
+
+### 15a
+Lab meeting: ? M 10:15-12:15
+
+Sections: 
+- W 12:45-2:45
+- W 3-5
+- F 9:45-11:45
+
+
+### 15b
+Lab meeting: ? M 9-11
+
+Sections:
+- (T 9:45-11:45)
+- T 3-5
+- W 9:45-11:45
+- W 12:45-2:45
+- (W 3-5)
+- R 9:45-11:45
+- R 3-5
+
+### 15c
+Lab meeting: ? T 9-11
+
+Sections: 
+- T 12-3
+- (W 3-6)
+- R 9-12
+- (R 3-6)
+- F 9-12
+- (F 12-3)
+
 # Fall 2025
 ## Teaching Assignments:
 - PS2 (Greg): Steve  
