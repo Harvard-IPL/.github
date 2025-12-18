@@ -1,3 +1,21 @@
+# Spring 2027
+## Teaching Assignments:
+- PS3: Steve
+- PS12a: Gregorio
+- 15a (Anna K): Anna W
+- 15b (Louis, SueYeon Chung): Amir
+- 15c (John Huth): Anna W
+- 302A: Louis
+- 113: Kathryn
+- 
+# Fall 2026
+## Teaching Assignments:
+- PS2 (Greg): Steve
+- PS12b (Anna W): Gregorio
+- 15a (Anna K): Steve, Gregorio
+- 15b (Louis): Mara 
+- 15c Stefan: Xing Fan 
+- 123: Kathryn
 
 # Spring 2026
 ## Teaching Assignments:
