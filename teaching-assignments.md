@@ -1,20 +1,21 @@
 # Spring 2027
 ## Teaching Assignments:
-- PS3: Steve
-- PS12a: Gregorio
-- 15a (Anna K): Anna W
-- 15b (Louis, SueYeon Chung): Amir
-- 15c (John Huth): Anna W
+- PS3: Steve (lecture and lab)
+- PS12a: Gregorio (lecture and lab)
+- 15a: Anna K (lecture), Anna W (lab)
+- 15b: Louis, SueYeon Chung (lecture), Amir (lab)
+- 15c: John Huth (lecture), Carlos, Anna W (lab)
 - 302A: Louis
-- 113: Kathryn
-- 
+- 113: ?
+- New lab course: Kathryn? 
+
 # Fall 2026
 ## Teaching Assignments:
-- PS2 (Greg): Steve
-- PS12b (Anna W): Gregorio
-- 15a (Anna K): Steve, Gregorio
-- 15b (Louis): Mara 
-- 15c Stefan: Xing Fan 
+- PS2: Greg (lecture), Steve (lab)
+- PS12b: Anna W (lecture), Gregorio (lab)
+- 15a: Julia (lecture), Steve, Gregorio (lab)
+- 15b: Louis (lecture), Mara (lab)
+- 15c: Stefan (lecture), Xing Fan (lab)
 - 123: Kathryn
 
 # Spring 2026
