@@ -148,7 +148,7 @@ Sections:
 
 # Spring 2025 Tentative Teaching Assignments:
 - PS3: Steve
-- PS12a: Anna
+- PS12a: Kathryn, Anna
 - 15a: Gregorio
 - 15b: Anna
 - 15c: Steve
