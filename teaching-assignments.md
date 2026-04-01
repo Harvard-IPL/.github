@@ -18,6 +18,34 @@
 - 15c: Stefan (lecture), Xing Fan (lab)
 - 123: Kathryn
 
+## Schedules (tentative):
+### PS2
+
+TBD
+
+### PS12b
+Lab meeting: TBD
+
+Sections:
+- W 3:45-5:45
+- W 6-8
+- R 9:45-11:45
+- R 12:45-2:45
+- R 3:45-5:45
+- F 3-5
+
+### 15a/16/19
+
+TBD
+
+### 15b
+
+TBD
+
+### 15c
+
+TBD
+
 # Spring 2026
 ## Teaching Assignments:
 - PS3 (Louis): Steve
