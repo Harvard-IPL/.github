@@ -20,27 +20,40 @@
 
 ## Schedules (tentative):
 ### PS2
-
-TBD
+Lab Sections:
+- T 3-6
+- T 6-9
+- W 3-6
+- W 6-9
+- R 12-3
+- R 3-6
+- F 9-12
 
 ### PS12b
-Lab meeting: TBD
-
-Sections:
+Lab Sections:
 - W 3:45-5:45
 - W 6-8
 - R 9:45-11:45
 - R 12:45-2:45
 - R 3:45-5:45
-- F 3-5
+- R 6-8
 
 ### 15a/16/19
-
-TBD
+Lab Sections:
+- T 3-5
+- T 6-8
+- W 12:45-2:45
+- R 3-5
+- R 6-8
+- F 9:45-11:45
+- F 12:45-2:45
 
 ### 15b
-
-TBD
+ - T 9:45-11:45
+- T 3-5
+- W 12:45-2:45
+- W 3-5
+- F 12:45-2:45  
 
 ### 15c
 
