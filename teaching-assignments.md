@@ -56,7 +56,9 @@ Lab Sections:
 - F 12:45-2:45  
 
 ### 15c
+Meeting: M 11:00
 
+Lab sections:
 - T 9-11:45
 - W 3-5:45
 - R 9-11:45
