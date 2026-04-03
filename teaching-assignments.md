@@ -21,13 +21,13 @@
 ## Schedules (tentative):
 ### PS2
 Lab Sections:
-- T 3-6
-- T 6-9
-- W 3-6
-- W 6-9
-- R 12-3
-- R 3-6
-- F 9-12
+- T 3-5:45
+- T 6-8:45
+- W 3-5:45
+- W 6-8:45
+- R 12-2:45
+- R 3-5:45
+- F 9-11:45
 
 ### PS12b
 Lab Sections:
@@ -49,7 +49,7 @@ Lab Sections:
 - F 12:45-2:45
 
 ### 15b
- - T 9:45-11:45
+- T 9:45-11:45
 - T 3-5
 - W 12:45-2:45
 - W 3-5
@@ -57,7 +57,10 @@ Lab Sections:
 
 ### 15c
 
-TBD
+- T 9-11:45
+- W 3-5:45
+- R 9-11:45
+- F 9-11:45
 
 # Spring 2026
 ## Teaching Assignments:
