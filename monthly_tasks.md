@@ -19,6 +19,7 @@ Tasks that occur once or twice yearly.
 
 ## October
 - Send draft appt letters to Marina
+- Solidify special TF requests with Marina
 
 ## November
 - Meet with preceptors for next year's teaching preferences
@@ -32,6 +33,7 @@ Tasks that occur once or twice yearly.
 - Place 15b/c extra students into spring sections
 - Schedule and run TF workshop
 - Meet with new extension school faculty and Alex
+- Review course evaluations (ask for access if necessary)
 
 ## February
 
