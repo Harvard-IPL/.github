@@ -7,6 +7,7 @@ Tasks that occur once or twice yearly.
 - Annual review
 
 ## July
+- Find a grad student to help sectioning in August/September
 
 ## August
 - Add fall TFs to lab roster
