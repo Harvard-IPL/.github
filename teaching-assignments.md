@@ -10,8 +10,8 @@
 
 # Fall 2026
 ## Teaching Assignments:
-- PS2: Greg (lecture), Isaac (lab)
-- PS12b: Steve (lecture), Rashmish (lab)
+- PS2: Greg (lecture), Rashmish (lab)
+- PS12b: Steve (lecture), Isaac (lab)
 - 15a: Julia (lecture), Rashmish, Isaac (lab)
 - 15b: Louis (lecture), Mara (lab)
 - 15c: Stefan (lecture), Xing Fan (lab)
