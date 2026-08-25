@@ -35,6 +35,7 @@ Tasks that occur once or twice yearly.
 - Schedule and run TF workshop
 - Meet with new extension school faculty and Alex
 - Review course evaluations (ask for access if necessary)
+- PPE assessments in AIMS
 
 ## February
 
