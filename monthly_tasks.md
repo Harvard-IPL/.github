@@ -16,11 +16,11 @@ Tasks that occur once or twice yearly.
 
 ## September
 - Schedule spring lab sections and send to Jolanta
-- Place 15b/c extra students into fall sections
+- Ensure 15b/c extra students are placed into fall sections
 
 ## October
-- Send draft appt letters to Marina
-- Solidify special TF requests with Marina
+- Draft TF expectation letters
+- Solidify special TF requests with (Silke?)
 
 ## November
 - Meet with preceptors for next year's teaching preferences
@@ -43,9 +43,9 @@ Tasks that occur once or twice yearly.
 - Schedule fall lab sections and send to Jolanta
 
 ## April
-- Send draft appt letters to Marina
+- Draft TF expectation letters
 
 ## May
-- Solidify special TF requests with Marina.
+- Solidify special TF requests with (Silke?)
 - Review course evaluations (ask for access if necessary)
 - Record "extra" 15abc lab students
