@@ -13,6 +13,7 @@ Tasks that occur once or twice yearly.
 - Add fall TFs to lab roster
 - Schedule and run TF workshop
 - Meet with new extension school faculty and Alex
+- Re-send "extra" student email for fall
 
 ## September
 - Schedule spring lab sections and send to Jolanta
@@ -24,6 +25,7 @@ Tasks that occur once or twice yearly.
 
 ## November
 - Meet with preceptors for next year's teaching preferences (F26: Anna?)
+- Send "extra" student email for spring (F26: Anna?)
 
 ## December
 - Clear lab roster of fall TFs (F26: Joe)
@@ -31,6 +33,7 @@ Tasks that occur once or twice yearly.
 
 ## January
 - Add sping TFs to lab roster (S27: Joe)
+- Resend "extra" student email for spring (S27: Anna?)
 - Place 15b/c extra students into spring sections (S27: Anna in 15b, Carlos 15c)
 - Schedule and run TF workshop (preceptors)
 - Meet with new extension school faculty and Alex
@@ -44,6 +47,7 @@ Tasks that occur once or twice yearly.
 
 ## April
 - Draft TF expectation letters
+- Send "extra" student email for fall
 
 ## May
 - Solidify special TF requests with (Silke?)
