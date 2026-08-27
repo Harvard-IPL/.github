@@ -23,24 +23,24 @@ Tasks that occur once or twice yearly.
 - Solidify special TF requests with (Silke?)
 
 ## November
-- Meet with preceptors for next year's teaching preferences
+- Meet with preceptors for next year's teaching preferences (F26: Anna?)
 
 ## December
-- Clear lab roster of fall TFs
-- Record "extra" 15abc lab students
+- Clear lab roster of fall TFs (F26: Joe)
+- Record "extra" 15abc lab students (email schedule sent, CC Anna)
 
 ## January
-- Add sping TFs to lab roster
-- Place 15b/c extra students into spring sections
-- Schedule and run TF workshop
+- Add sping TFs to lab roster (S27: Joe)
+- Place 15b/c extra students into spring sections (S27: Anna in 15b, Carlos 15c)
+- Schedule and run TF workshop (preceptors)
 - Meet with new extension school faculty and Alex
 - Review course evaluations (ask for access if necessary)
-- PPE assessments in AIMS
+- PPE assessments in AIMS (?)
 
 ## February
 
 ## March
-- Schedule fall lab sections and send to Jolanta
+- Schedule fall lab sections and send to Jolanta (S27: Anna?)
 
 ## April
 - Draft TF expectation letters
