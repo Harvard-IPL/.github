@@ -63,5 +63,6 @@ Tasks that occur once or twice yearly.
 - Advising hold (Can Anna do this for me?)
 - Run IPL meeting (Anna?)
 - Run 111 meeting and manage student workers (Joe?)
+- Keep 111 development going (Joe, Jieping, Alex, Anna?, Isaac?)
 - Lab safety stuff (Joe)
 - Helping out new preceptors (Steve, Greg, Anna)
