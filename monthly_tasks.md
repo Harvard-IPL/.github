@@ -64,4 +64,4 @@ Tasks that occur once or twice yearly.
 - Run IPL meeting (Anna?)
 - Run 111 meeting and manage student workers (Joe?)
 - Lab safety stuff (Joe)
-- 
+- Helping out new preceptors (Steve, Greg, Anna)
