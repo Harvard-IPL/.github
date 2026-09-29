@@ -10,7 +10,7 @@ Tasks that occur once or twice yearly.
 - Find a grad student to help sectioning in August/September
 
 ## August
-- Add fall TFs to lab roster
+- Add fall TFs to lab roster, assign laser to 15c TFs
 - Schedule and run TF workshop
 - Meet with new extension school faculty and Alex
 - Re-send "extra" student email for fall
@@ -35,7 +35,7 @@ Tasks that occur once or twice yearly.
 - Post Preceptor job if hiring in S27
 
 ## January
-- Add sping TFs to lab roster (S27: Joe)
+- Add sping TFs to lab roster, assign laser to 15c TFs (S27: Joe)
 - Resend "extra" student email for spring (S27: Anna?)
 - Place 15b/c extra students into spring sections (S27: Anna in 15b, Carlos 15c)
 - Schedule and run TF workshop (preceptors)
@@ -60,9 +60,9 @@ Tasks that occur once or twice yearly.
 
 # Recurring tasks to delegate during leave
 - Does someone need to replace me on Preceptors and Lecturers Committee for first year reviews of preceptors?
-- Advising hold (Can Anna do this for me?)
-- Run IPL meeting (Anna?)
-- Run 111 meeting and manage student workers (Joe?)
+- Advising hold (Anna)
+- Run IPL meeting (Anna)
+- Run 111 meeting and manage student workers (Joe)
 - Keep 111 development going (Joe, Jieping, Alex, Anna?, Isaac?)
 - Lab safety stuff (Joe)
 - Helping out new preceptors (Steve, Greg, Anna)
