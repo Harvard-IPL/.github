@@ -68,6 +68,6 @@ Tasks that occur once or twice yearly.
 - Helping out new preceptors (Steve, Greg, Anna)
 
 # Specific tasks to delegate during leave
-- Anna: Making sure 302A with Louis has a good TF (Kellianne?). The preceptors (at least Steve and Rashmish) will not have the bandwidth to help because they are course heads.
+- Anna: Making sure 302A with Louis has a good TF (Kellianne?). The preceptors (at least Steve and Rashmish) will not have the bandwidth to help because they are course heads. Isaac could probably run one section, but should not be pressured into co-teaching the whole course. 
 - ????: interfacing with Bok center to return the recording equipment when David finishes his recordings
 - Steve: keeping my office plant alive
