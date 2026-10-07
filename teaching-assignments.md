@@ -8,6 +8,71 @@
 - 302A: Louis
 - 113: not taught
 
+## Schedules:
+### PS3
+Lab meeting: Mondays 11am
+
+TFs teach 4 labs (every other week)
+
+Labs: 
+- T 12-2:45
+- T 6-8:45
+- W 12-2:45
+- W 3-5:45
+- W 6-8:45
+- R 12-2:45
+- R 3-5:45
+- R 6-8:45
+  
+### PS12a
+Lab meeting: Monday 1pm
+
+TFs teach 4 labs
+
+Labs:
+- W 12:45-2:45
+- W 3:45-5:45
+- W 6-8
+- R 9:45-11:45
+- R 12:45-2:45
+- R 3:45-5:45
+
+### 15a
+Lab meeting: M 3pm
+
+TFs teach 4 labs
+
+Labs: 
+- R 3-5
+- F 9:45-11:45
+- F 12:45-2:45
+- F 3-5
+
+
+### 15b
+Lab meeting: Thursday 10am
+
+TFs teach 4 labs
+
+Labs:
+- T 9:45-11:45
+- T 3-5
+- T 6-8
+- W 9:45-11:45
+- W 12:45-2:45
+- W 3-5
+
+### 15c
+Lab meeting: Monday 9am
+
+TFs teach 3 labs
+
+Labs: 
+- T 9-11:45
+- T 3-5:45
+- W 3-5:45
+- F 9-11:45
+
 # Fall 2026
 ## Teaching Assignments:
 - PS2: Greg (lecture), Rashmish (lab)
